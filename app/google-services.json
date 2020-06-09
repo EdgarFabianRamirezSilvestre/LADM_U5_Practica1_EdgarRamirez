@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230740051733",
+    "firebase_url": "https://ladmu5practica1edgarramirez.firebaseio.com",
+    "project_id": "ladmu5practica1edgarramirez",
+    "storage_bucket": "ladmu5practica1edgarramirez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230740051733:android:bbd028bfbf095841e20b1c",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u5_practica1_edgarramirez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230740051733-apmvq5e3r72om7atvn8h10v23gssuoj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.ladm_u5_practica1_edgarramirez",
+            "certificate_hash": "0ee6a1f23362b0a939b92dfbe712946a01de5637"
+          }
+        },
+        {
+          "client_id": "230740051733-eg15dbaj9i2j1irgk7pinfjugieug0rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzk9hlQvM9is-kFvTYRT8rl4JKJKbo_0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230740051733-eg15dbaj9i2j1irgk7pinfjugieug0rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
